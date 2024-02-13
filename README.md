@@ -1,13 +1,15 @@
-<h2 align="center">Hello I'm Tejas</h1>
-<h3 align="center">I write code :D</h3>
+<h2 align="left">Hello I'm Tejas</h1>
+<h3 align="left">I write code :D</h3>
 
-<p align="center">
+<p align="left">
 🌱 I’m currently learning Web Development. <br/>
 ⚡ Fun fact: I saw the first shooting star of my life.
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
+---
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript" width="40" height="40"/> 
